@@ -1,4 +1,4 @@
-# AILabProj-LISxCanopies
+# AILabProj-Live_ASL_Classification
 Repository del progetto Live ASL Classification creato per il laboratorio di AI a.a 2021/22 fatto da Nicole Perrotta.
 
 Consiste nella classificazione delle 26 lettere dell'alfabeto dei segni americano (ASL) e di 3 parole ('space', 'delete' and 'nothing') attraverso l'uso di reti pre-addestrate per allenare un nuovo modello sul seguente set di dati: https://www.kaggle.com/datasets/grassknoted/asl-alphabet
