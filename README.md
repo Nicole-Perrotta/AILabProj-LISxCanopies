@@ -2,6 +2,7 @@
 Repository del progetto Live ASL Classification creato per il laboratorio di AI a.a 2021/22 fatto da Nicole Perrotta.
 
 Consiste nella classificazione delle 26 lettere dell'alfabeto dei segni americano (ASL) e di 3 parole ('space', 'delete' and 'nothing') attraverso l'uso di reti pre-addestrate per allenare un nuovo modello sul seguente set di dati: https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+
 Il riconoscimento delle immagini avviene attraverso un video live.
 
 Il progetto si divide in due parti, la prima su Colab per la creazione del modello e la seconda in locale per la realizzazione dell'architettura dello streaming video. 
