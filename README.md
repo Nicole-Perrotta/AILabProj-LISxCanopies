@@ -23,4 +23,4 @@ La cartella è organizzata nel seguente modo:
 -Letters.xlxs che contiene il comportamento del mondello scelto nel riconoscere i vari segni 
 -Saved_models dove sono salvati i pesi di tutti i modelli usati
 
-![Demo_official](https://user-images.githubusercontent.com/101813915/189209095-ae2b00ea-b778-48a7-8841-ec58f8aac44a.jpg)
+![Demo_official (1)](https://user-images.githubusercontent.com/101813915/189209588-ee60a864-2aad-42bc-ade5-d450abbdf838.jpg)
