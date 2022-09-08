@@ -25,6 +25,8 @@ La cartella è organizzata nel seguente modo:
 
 -Dataset_B&W.zip
 
+-Demo.mp4 che contiene una breve dimostrazione del comportamento del modello
+
 -Evaluations.xlsx che contiene la valutazione dei vari modelli
 
 -Letters.xlxs che contiene il comportamento del mondello scelto nel riconoscere i vari segni 
