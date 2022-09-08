@@ -11,6 +11,7 @@ Per la creazione del modello ho provato diverse reti neurali convoluzionali pre-
 Per il problema del riconoscimento del linguaggio dei segni in live attraverso l'utilizzo di una videocamera ho effettuato diversi paragoni tra i modelli precedentemente creati e ho studiato il loro comportamento sui frame estrapolati dal video, giungendo alla conclusione che il modello con prestazioni migliori fosse quello con IncpetionV3. 
 
 Per caricare i vari modelli, data la dimensione, ho deciso di condividere una cartella drive: https://drive.google.com/drive/folders/1rhTVhObyH4VRnVhtbmFARdpGG2B2rS2J?usp=sharing
+
 La cartella è organizzata nel seguente modo:
 -ASL_Classification.ipynb
 -B&W_ASL_Classification.ipynb
@@ -21,3 +22,5 @@ La cartella è organizzata nel seguente modo:
 -Evaluations.xlsx che contiene la valutazione dei vari modelli
 -Letters.xlxs che contiene il comportamento del mondello scelto nel riconoscere i vari segni 
 -Saved_models dove sono salvati i pesi di tutti i modelli usati
+
+![Demo_official](https://user-images.githubusercontent.com/101813915/189208663-992d2bd9-e033-4fdc-97db-a04733950b76.jpg)
