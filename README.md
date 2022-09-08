@@ -14,13 +14,22 @@ Per caricare i vari modelli, data la dimensione, ho deciso di condividere una ca
 
 La cartella è organizzata nel seguente modo:
 -ASL_Classification.ipynb
+
 -B&W_ASL_Classification.ipynb
+
 -Live_ASL_Classification.py
+
 -B&W_Live_ASL_Classification.py
+
 -Dataset.zip
+
 -Dataset_B&W.zip
+
 -Evaluations.xlsx che contiene la valutazione dei vari modelli
+
 -Letters.xlxs che contiene il comportamento del mondello scelto nel riconoscere i vari segni 
+
 -Saved_models dove sono salvati i pesi di tutti i modelli usati
+
 
 ![Demo_official (1)](https://user-images.githubusercontent.com/101813915/189209588-ee60a864-2aad-42bc-ade5-d450abbdf838.jpg)
